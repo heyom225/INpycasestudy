@@ -1,2 +1,2 @@
 # INpycasestudy
-case study-student management system
+case study-student management system by group
