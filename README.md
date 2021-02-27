@@ -1,3 +1,3 @@
 # INpycasestudy
 case study-student management system
-awate gm
+#__awate gm__
